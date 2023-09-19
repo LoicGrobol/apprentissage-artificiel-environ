@@ -2,9 +2,9 @@ conllu
 ipympl
 ipywidgets
 jupyterlab
+jupyterlab_rise
 jupytext
 nbconvert
-nbgitpuller
 numpy
 matplotlib
 pandas
